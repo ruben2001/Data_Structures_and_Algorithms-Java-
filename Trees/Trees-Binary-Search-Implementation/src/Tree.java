@@ -1,5 +1,3 @@
-package academy.learnprogramming.binarysearchtrees;
-
 public class Tree {
 
     private TreeNode root;
