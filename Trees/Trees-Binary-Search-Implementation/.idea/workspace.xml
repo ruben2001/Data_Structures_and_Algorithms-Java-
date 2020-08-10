@@ -1,23 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c181d0cc-46b4-430a-8eea-4c6c688c9a88" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/Tree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c181d0cc-46b4-430a-8eea-4c6c688c9a88" name="Default" comment="Tree-Binary-Search was changed 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BinarySearchTrees/academy/learnprogramming/binarysearchtrees/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BinarySearchTrees/academy/learnprogramming/binarysearchtrees/Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BinarySearchTrees/academy/learnprogramming/binarysearchtrees/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/learnprogramming/binarysearchtrees/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/learnprogramming/binarysearchtrees/Tree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/learnprogramming/binarysearchtrees/TreeNode.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,12 +127,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1508858474680</updated>
-      <workItem from="1596819371608" duration="149000" />
+      <workItem from="1596819371608" duration="517000" />
     </task>
+    <task id="LOCAL-00001" summary="Tree-Binary-Search was changed">
+      <created>1596819568376</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596819568376</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Tree-Binary-Search was changed 2">
+      <created>1596819647154</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596819647154</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tree-Binary-Search was changed" />
+    <MESSAGE value="Tree-Binary-Search was changed 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tree-Binary-Search was changed 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="392" y="89" key="#Notifications" timestamp="1596819519607">
@@ -158,10 +163,30 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="648" y="320" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1600.860@0.0.1600.860" timestamp="1596819392813" />
-    <state x="256" y="25" key="CommitChangelistDialog2" timestamp="1596819567613">
+    <state x="235" y="18" key="CommitChangelistDialog2" timestamp="1596819646494">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="256" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1596819567613" />
+    <state x="235" y="18" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1596819646494" />
+    <state width="1557" height="220" key="GridCell.Tab.0.bottom" timestamp="1596819888527">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="220" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1596819888527" />
+    <state width="1557" height="220" key="GridCell.Tab.0.center" timestamp="1596819888527">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="220" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1596819888527" />
+    <state width="1557" height="220" key="GridCell.Tab.0.left" timestamp="1596819888527">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="220" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1596819888527" />
+    <state width="1557" height="220" key="GridCell.Tab.0.right" timestamp="1596819888527">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="220" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1596819888527" />
+    <state x="392" y="164" key="Vcs.Push.Dialog.v2" timestamp="1596819657742">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="164" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1596819657742" />
     <state x="609" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596819620190">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

@@ -14,12 +14,5 @@ public class Main {
 
         ht.printHashtable();
 
-//        System.out.println("Retrieve key Smith: " + ht.get("Smith"));
-//
-//        ht.remove("Doe");
-//        ht.remove("Jones");
-//        ht.printHashtable();
-//
-
     }
 }
