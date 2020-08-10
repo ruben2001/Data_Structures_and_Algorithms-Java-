@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d9ed37f2-8379-4415-9b2b-3707cf71fe06" name="Default" comment="Hashtable fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queues-Implementation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Queues-Implementation/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +123,7 @@
       <option name="presentableId" value="Default" />
       <updated>1508339377560</updated>
       <workItem from="1596814793797" duration="596000" />
-      <workItem from="1597097437867" duration="1127000" />
+      <workItem from="1597097437867" duration="1842000" />
     </task>
     <task id="LOCAL-00001" summary="Hashtable fix">
       <created>1597098545101</created>
@@ -131,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597098545101</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Hashtable fix">
+      <created>1597098620244</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597098620244</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,9 +178,9 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="496" y="255" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1597097441694" />
-    <state x="609" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597098518026">
+    <state x="609" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597102388411">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="609" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1597098518026" />
+    <state x="609" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1597102388411" />
   </component>
 </project>
